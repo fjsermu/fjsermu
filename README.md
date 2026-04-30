@@ -1,6 +1,6 @@
 # Hi, I'm fjsermu 👋
 
-I'm a web developer focused on building useful, maintainable software for real people and real business workflows. I have experience creating SaaS products, internal tools, education platforms, APIs, and custom web applications.
+I'm a web developer focused on building useful, maintainable software for real people and real business workflows. I have experience creating SaaS products, internal tools, education platforms, tourism solutions, APIs, and custom web applications.
 
 I enjoy working across the stack: designing solid backend foundations, shaping clean interfaces, and keeping projects understandable as they grow.
 
@@ -22,6 +22,7 @@ I enjoy working across the stack: designing solid backend foundations, shaping c
 ```text
 SaaS           Product platforms, dashboards, subscriptions and business workflows
 Education      Learning platforms, content management and student-facing tools
+Tourism        Booking flows, travel operations, property and destination platforms
 Backend        Laravel, PHP, APIs, databases, queues and integrations
 Frontend       Vue, JavaScript, Vite, Tailwind CSS and practical UI systems
 Other stacks   Java, Python, automation and service-oriented development
